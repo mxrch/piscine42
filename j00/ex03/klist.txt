@@ -1,0 +1,5 @@
+Credentials cache: API:2B3144F6-1740-4273-9573-FC0E6D9201CE
+        Principal: thertzog@42.FR
+
+  Issued                Expires               Principal
+Jul  2 15:27:10 2018  Jul  9 15:26:52 2018  krbtgt/42.FR@42.FR
