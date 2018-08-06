@@ -8,12 +8,12 @@ The first two days are for the shell, and the others are for the C.
 
 | Days | Percentage of success |
 | - | - |
-| Day00 | 100% |
-| Day01 | 100% |
-| Day02 | 100% |
-| Day03 | 100% |
-| Day04 | 100% |
-| Day05 | 75% |
-| Day09 | 40% |
+| *Day00* | 100% |
+| *Day01* | 100% |
+| *Day02* | 100% |
+| *Day03* | 100% |
+| *Day04* | 100% |
+| *Day05* | 75% |
+| *Day09* | 40% |
 
 Don't cheat. ;)
