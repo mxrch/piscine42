@@ -7,7 +7,7 @@ Here is my work for my pool at 42. Unfortunately, I could not import everything,
 The first two days are for the shell, and the others are for the C.
 
 | Days | Percentage of success |
-| - | - |
+| - | :-: |
 | *Day00* | 100% |
 | *Day01* | 100% |
 | *Day02* | 100% |
