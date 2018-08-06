@@ -1,6 +1,6 @@
 # Piscine 42, 2018
 
-![Picture](http://blog.economie-numerique.net/wp-content/uploads/2017/04/e%CC%81cole-42-800x600-600x315.jpg)
+![Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/480px-42_Logo.svg.png)
 
 Here is my work for my pool at 42. Unfortunately, I could not import everything, so this code dates from when I was doing the day05, not finalized here.
 
